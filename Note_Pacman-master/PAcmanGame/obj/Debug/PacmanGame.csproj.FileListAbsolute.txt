@@ -1,0 +1,7 @@
+C:\Users\GODxDEMON\Downloads\Pacman-master\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\GODxDEMON\Downloads\Pacman-master\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe
+C:\Users\GODxDEMON\Downloads\Pacman-master\Pacman-master\PacmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\GODxDEMON\Downloads\Pacman-master\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\GODxDEMON\Downloads\Pacman-master\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\GODxDEMON\Downloads\Pacman-master\Pacman-master\PacmanGame\obj\Debug\PacmanGame.exe
+C:\Users\GODxDEMON\Downloads\Pacman-master\Pacman-master\PacmanGame\obj\Debug\PacmanGame.pdb
